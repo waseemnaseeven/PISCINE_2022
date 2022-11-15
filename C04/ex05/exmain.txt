@@ -1,0 +1,12 @@
+
+/*int	main(void)
+{
+	char	*bin = "101010111100";
+	char	*dec = "2748";
+	char	*hex = "abc";
+	char	*oct = "poneyvif";
+	printf("%d\n", ft_atoi_base(dec, "0123456789"));
+	printf("%d\n", ft_atoi_base(bin, "01"));
+	printf("%d\n", ft_atoi_base(oct, "poneyvif"));
+	printf("%d\n", ft_atoi_base(hex, "0123456789abcdef"));
+}*/
