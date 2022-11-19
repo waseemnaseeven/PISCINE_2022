@@ -11,6 +11,18 @@ I'm a student at 42 now, so the code i've made during the piscine isnt perfect.
 
 | Modules       | Grade         | 
 | ------------- |:-------------:|
+| SHELL00       | 85%           |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
 | col 3 is      | right-aligned |
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
