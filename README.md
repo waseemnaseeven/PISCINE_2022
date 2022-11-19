@@ -26,6 +26,7 @@ I'm a student at 42 now, so the code i've made during the piscine isnt perfect.
 |  C10          |  NOT RATED    |
 |  C11          |  NOT RATED    |
 |  C12          |  NOT RATED    |
+|  C13          |  NOT RATED    |
 |  RUSH00       |  0%           |
 |  RUSH01       |  0%           |
 |  RUSH02       |  0%           |
