@@ -1,9 +1,9 @@
 # PISCINE_2022
 The piscine i've made in 42 School Paris, in august 2022
 
-DON't COPY, LEARN
+`DON'T COPY, LEARN`
 
-I'm a student at 42 now, so the code i've made during the piscine isnt perfect. 
+⚠️ I'm a student at 42 now, so the code i've made during the piscine isnt perfect. ⚠️ 
 
 - Shell 00 and Shell 01 during the piscine
 - i've made C00 to C09 during the piscine 
