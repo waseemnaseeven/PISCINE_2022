@@ -3,7 +3,8 @@ The piscine i've made in 42 School Paris, in august 2022
 
 `DON'T COPY, LEARN`
 
-⚠️ I'm a student at 42 now, so the code i've made during the piscine isnt perfect. ⚠️ 
+                      ⚠️ I'm a student at 42 now, so the code i've made during the piscine isnt perfect. ⚠️ 
+________________________________________
 
 | Modules       | Grade         | 
 | ------------- |:-------------:|
